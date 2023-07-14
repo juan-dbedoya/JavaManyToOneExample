@@ -3,9 +3,9 @@
 ## Este proyecto contiene un ejemplo muy concreto de una relación ManyToOne y OneToMany, tomando como ejemplo 2 entidades, oferta de empleo y candidato. Este proyecto funciona con una base de datos MySql, y el ORM JPA, documentacion de apis swagger y JWT en la seguridad.
 
 # -Configuracion de base de datos:
-  > Ejecutar esta linea en el editor de codigo de MySQL que desee ->CREATE DATABASE careerOtoM;
-  > Las tablas se crearán de manera automatica Y la cadena de conexion en el archivo "applications.properties" está
-  escrito para una base de datos cuyo usuario y contraseña sean ambos "root" y que esta corra en el puerto 3306.
+    1) Ejecutar esta linea en el editor de codigo de MySQL que desee ->CREATE DATABASE careerOtoM;
+    2) Las tablas se crearán de manera automatica Y la cadena de conexion en el archivo "applications.properties" está
+    escrito para una base de datos cuyo usuario y contraseña sean ambos "root" y que esta corra en el puerto 3306.
   (modificar la cadena de concexion para generarla correctamente)
 
 # -Swagger:
